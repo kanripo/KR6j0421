@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大聖文殊師利菩薩讚佛法身禮
+#+DATE: 2015-08-30 20:32:09.614744
+#+PROPERTY: JUAN 0
