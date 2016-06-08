@@ -1,26 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:09.389082
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:07
 #+TITLE: 大聖文殊師利菩薩讚佛法身禮
 #+PROPERTY: CBETA_ID T20n1195
 #+PROPERTY: ID KR6j0421
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1195
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0421_T_001-0936c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1195¶
-
- 大聖文殊師利菩薩讚佛法身禮¶
+No. 1195¶
+大聖文殊師利菩薩讚佛法身禮¶
 (并序)¶
 ¶
 
-　　　此禮出大乘一切境界智光明莊¶
+　　　此禮＝法【宋】【元】禮出大乘一切境界智光明莊嚴經禮出大乘一切境界智光明莊¶
 嚴經¶
-開府儀同三司特進試鴻臚卿肅國¶
-公食邑三千戶賜紫贈司空諡大鑑¶
-正號大廣智大興善寺三藏沙門¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑑正號大廣智（大興）＋大【甲】大興善寺大興善寺三藏沙門¶
 不空奉　詔譯¶
 
 皇帝以深仁馭宇。大明燭物。普灑甘露。沃¶
@@ -215,9 +212,9 @@ No.1195¶
 　一切平等禮
 　無禮無不禮¶
 　一禮遍含識
-　同歸實相體
+　同歸實相體」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊讚文殊師利菩薩言。善哉善哉。汝¶
 今善說如來功德一切諸法本來清淨。文殊¶
